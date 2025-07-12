@@ -1,13 +1,8 @@
 # Responsive React + Tailwind Project
-A modern, responsive website template built with React, TypeScript, and Tailwind CSS.
-Preview: https://site-template-v2.vercel.app/
+A modern, responsive website template built with React, TypeScript, and Tailwind CSS. I focus on components responsiveness across various screen sizes.
+This is a personal project and not affiliated with Datature. [View Live Site](https://site-template-v2.vercel.app/)
 
-### Scope: 
+#### Scope: 
 Homepage design & frontend development
-
-### Focus: 
-Component responsiveness across various screen sizes
-
-#### Note: This is a personal project and not affiliated with Datature.
 
 ![Preview](./home_preview.png)
